@@ -2,7 +2,7 @@ body{
       background-color: #26c0ce;
 }
 .font-size {
-    font-size: 25px;
+    font-size: '25px';
     font-family: 'Impact', Haettenschweiler, 'Arial Narrow Bold', 'sans-serif';
     text-align: center;
 }
@@ -10,10 +10,10 @@ body{
     font-family: 'Arial', 'Helvetica', 'sans-serif';
     font-weight: 200 ;
     text-align: justify;
-    line-height: 40px;
+    line-height: '40px';
 }
 
 .BIG {
-    font-size: 70px;
+    font-size: '70px';
 
 }
