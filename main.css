@@ -3,4 +3,17 @@ body{
 }
 .font-size {
     font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.Police-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200 ;
+    text-align: justify;
+    line-height: 40px;
+}
+
+.BIG {
+    font-size: 70px;
+
 }
