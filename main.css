@@ -2,18 +2,18 @@ body{
       background-color: #26c0ce;
 }
 .font-size {
-    font-size: 25px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
+    font-size: '25px';
+    font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', 'sans-serif';
+    text-align: 'center';
 }
 .Police-text {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
     font-weight: 200 ;
-    text-align: justify;
-    line-height: 40px;
+    text-align: 'justify';
+    line-height: '40px';
 }
 
 .BIG {
-    font-size: 70px;
+    font-size: '70px';
 
 }
